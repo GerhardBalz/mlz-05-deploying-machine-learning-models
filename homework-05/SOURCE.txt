@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/33ad5e9ad4d56fcfdd8ff162eca75b7628c8d1ed/cohorts/2026/homework/05-deployment
